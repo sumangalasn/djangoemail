@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="250f86e1-db59-4409-a448-663931cc6170" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DjangoEmail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoEmail/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoEmail/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoEmail/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoEmail/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoEmail/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send/templates/send/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LrOilQk2APKMtCC1tmEXs0GP7t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/work/python/projects/djanggosendingEmail"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="250f86e1-db59-4409-a448-663931cc6170" name="Changes" comment="" />
+      <created>1676625863519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676625863519</updated>
+    </task>
+    <servers />
+  </component>
+</project>
